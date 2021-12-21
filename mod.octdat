@@ -1,0 +1,14 @@
+{
+    id Oct.Demigods.Kontra.Player
+    type Demigod
+
+    pitch = .5
+    speakerColor = color(1,.75,.75)
+}
+{
+    id Oct.Demigods.Demonkin.Demonier
+    type Demigod
+
+    pitch = .6
+    speakerColor = color(.6, .8, 1)
+}
