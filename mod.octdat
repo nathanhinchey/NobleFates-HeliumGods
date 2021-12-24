@@ -3,12 +3,12 @@
     type Demigod
 
     pitch = .5
-    speakerColor = color(1,.75,.75)
+    speakerColor = color(.6, 0, .4)
 }
 {
     id Oct.Demigods.Demonkin.Demonier
     type Demigod
 
     pitch = .6
-    speakerColor = color(.6, .8, 1)
+    speakerColor = color(0, 1, 0)
 }
